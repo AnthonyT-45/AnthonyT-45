@@ -7,7 +7,7 @@ I am a recent graduate from the University of North Carolina at Charlotte with a
 - **Game Development:** Proficient within Unity and GameMaker for game development.
 - **Scripting:** Developer for a GTAV Fivem RP Server, involving Lua scripting.
 - **Web Development:** Experience with front-end development, created my own website portfolio using HTML, CSS, JS, and Bootstrap.
-- **Machine Learning:** Familarity with using Python and Python related frameworks for machine learning.
+- **Machine Learning:** Familarity with using Python and Python related frameworks focused on machine learning.
 
 ### Projects
 - **Portfolio:** A website containing information about me and the projects worked on.
