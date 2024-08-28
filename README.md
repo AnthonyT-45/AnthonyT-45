@@ -20,8 +20,8 @@ I am a recent graduate from the University of North Carolina at Charlotte with a
 - **LinkedIn:** [Anthony Therrien](https://www.linkedin.com/in/anthony-therrien-b90611256/)
 
 ### GitHub Stats
-![Anthony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnthonyTherrien&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyTherrien&layout=compact&theme=radical)
+![Anthony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnthonyT-45n&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyT-45&layout=compact&theme=radical)
 
 <!--
 **AnthonyT-45/AnthonyT-45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
