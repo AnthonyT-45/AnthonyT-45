@@ -10,11 +10,14 @@ I am a recent graduate from the University of North Carolina at Charlotte with a
 - **Machine Learning:** Familarity with using Python and Python related frameworks for machine learning.
 
 ### Projects
-- **Cutelandia Corrupted:**
-- **
+- **Cutelandia Corrupted:** A 2D, top-down action game about (aggressively) caring for animals.
+- **Abyss:** A 2D, platformer game where you traverse through obstacles while fighting enemies.
+- **Dungeon Tactics:** A 2D, grid game where you fight through waves of enemies strategically.
+- **Task Scheduler:** A console-based application where you can manage and schedule tasks that you need to complete.
 
 ### Currently Working On
-- TBA
+- Creating a StreamElements widget.
+- Developing a video game using Unreal Engine.
 
 ### Contact Me
 - **Email:** [anthonyt4554@gmail.com](mailto:anthonyt4554@gmail.com)
