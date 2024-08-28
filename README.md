@@ -4,13 +4,14 @@
 I am a recent graduate from the University of North Carolina at Charlotte with a Bachelor's degree in Computer Science, concentrating in Game Design. I'm passionate about creating games and also learning more about other general topics in Computer Science.
 
 ### Skills
-- **Game Development:** I am proficient within Unity and GameMaker for game development.
-- **Scripting:** I was a developer for a GTAV FiveM RP Server that involved Lua scripting.
-- **Web Development:** I am familiar with front-end development as I created my own website portfolio using HTML, CSS, JS, and Bootstrap.
-- **Machine Learning:** I have a bit of experience using Python and Python related frameworks for machine learning.
+- **Game Development:** Proficient within Unity and GameMaker for game development.
+- **Scripting:** Developer for a GTAV Fivem RP Server, involving Lua scripting.
+- **Web Development:** Experience with front-end development as I created my own website portfolio using HTML, CSS, JS, and Bootstrap.
+- **Machine Learning:** Familarity with using Python and Python related frameworks for machine learning.
 
 ### Projects
-- TBA
+- **Cutelandia Corrupted:**
+- **
 
 ### Currently Working On
 - TBA
