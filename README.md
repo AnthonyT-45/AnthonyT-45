@@ -20,6 +20,10 @@ I am a recent graduate from the University of North Carolina at Charlotte with a
 - Creating a StreamElements widget.
 - Developing a video game using Unreal Engine.
 
+### Currently Learning
+- Data Structures and Algorithms (Leetcode)
+- React
+
 ### Contact Me
 - **Email:** [anthonyt4554@gmail.com](mailto:anthonyt4554@gmail.com)
 - **LinkedIn:** [Anthony Therrien](https://www.linkedin.com/in/anthony-therrien-b90611256/)
