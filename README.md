@@ -18,7 +18,6 @@ I am a recent graduate from the University of North Carolina at Charlotte with a
 
 ### Currently Working On
 - Creating a StreamElements widget.
-- Developing a video game using Unreal Engine.
 
 ### Currently Learning
 - Data Structures and Algorithms (Leetcode)
