@@ -17,10 +17,11 @@ I am a recent graduate from the University of North Carolina at Charlotte with a
 - **Cutelandia Corrupted:** A 2D, top-down action game about (aggressively) caring for animals.
 
 ### Currently Working On
-- 2D Unity Game (planning on releasing on Steam)
+- Rats! - A 2D Unity Game that is under development (planning on releasing on Steam)
 
 ### Currently Learning
-- Data Structures and Algorithms (Leetcode)
+- Data Structures and Algorithms (Leetcode/Hackerrank)
+- REST API / Flask
 
 ### Contact Me
 - **Email:** [anthonyt4554@gmail.com](mailto:anthonyt4554@gmail.com)
