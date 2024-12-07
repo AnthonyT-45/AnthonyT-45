@@ -21,7 +21,7 @@ I am a recent graduate from the University of North Carolina at Charlotte with a
 
 ### Currently Learning
 - Data Structures and Algorithms (Leetcode/Hackerrank)
-- Machine Learning (Tensorflow / Pytorch)
+- Pixel Art / Animations for Unity 2D
 
 ### Contact Me
 - **Email:** [anthonyt4554@gmail.com](mailto:anthonyt4554@gmail.com)
