@@ -22,7 +22,6 @@ I am also a graduate from the University of North Carolina at Charlotte with a B
 - **Email:** [anthonyt4554@gmail.com](mailto:anthonyt4554@gmail.com)
 - **LinkedIn:** [Anthony Therrien](https://www.linkedin.com/in/anthony-therrien-b90611256/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyT-45&layout=compact&langs_count=8&theme=github_dark)
 
 <!--
 **AnthonyT-45/AnthonyT-45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
