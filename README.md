@@ -5,14 +5,15 @@ Currently a Software Developer contractor working at AbbVie.
 I am also a graduate from the University of North Carolina at Charlotte with a Bachelor's degree in Computer Science, concentrating in Game Design. I'm passionate about game and web/mobile app development and also learning more about other general topics in Computer Science.
 
 ### Skills
-- **Game Development:** Proficient within Unity and GameMaker for game development.
+- **Game Development:** Proficient within Unity (C#) and GameMaker for game development.
+- **Backend Development:** Proficient with Python + FastAPI, Go, familiar with AWS environment using EC2, Lambda, S3, SQS, DynamoDB, ECR, RDS, SageMaker.
 - **Scripting:** Previously was developer for a GTAV Fivem RP Server, involving Lua scripting.
-- **Web Development:** Experience with front-end development, currently creating a Next.js React web app for my portfolio
-- **Machine Learning:** Familarity with using Python and Python related frameworks focused on machine learning.
+- **Web Development:** Experience with front-end development, currently creating a Next.js React web app for my portfolio.
+- **Mobile App Development:** Aided in an iOS mobile app project, familiar with Swift, developed UI and API calls.
 
 ### Currently Working On
-- Rats! - A 2D Unity Game that is under development (planning on releasing on Steam)
-- Stratbus Games - A Next.js React web app that will contain mini games for users to play.
+- Rats?! - A 2D, roguelike Unity Game that is under development (planning on releasing on Steam)
+- Stratbus Games - Currently developing a Next.js React web application featuring a collection of interactive mini-games and activities for users to try out for entertainment purposes. 
 
 ### Currently Learning
 - Pixel Art / Animations for Unity 2D
