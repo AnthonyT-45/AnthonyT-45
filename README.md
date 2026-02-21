@@ -7,7 +7,7 @@ I am also a graduate from the University of North Carolina at Charlotte with a B
 ### Skills
 - **Game Development:** Proficient within Unity (C#) and GameMaker for game development.
 - **Backend Development:** Proficient with Python + FastAPI, Go, familiar with AWS environment using EC2, Lambda, S3, SQS, DynamoDB, ECR, RDS, SageMaker.
-- **Scripting:** Previously was developer for a GTAV Fivem RP Server, involving Lua scripting.
+- **Scripting:** Developing a GTAV Fivem RP Server, involving Lua scripting.
 - **Web Development:** Experience with front-end development, currently creating a Next.js React web app for my portfolio.
 - **Mobile App Development:** Aided in an iOS mobile app project, familiar with Swift, developed UI and API calls.
 
